@@ -16,5 +16,4 @@ TypePoste poste,
 String departement
 
 )
-{
-}
+{}
